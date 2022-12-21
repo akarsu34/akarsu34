@@ -9,10 +9,10 @@
 
 <br />
 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align ="left"  />][LinkedIn] 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align ="left" backround-color="white" />][twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/medium.svg" align ="left" color="white" />][medium]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/hackerrank.svg" align ="left" color="white" />][hackerrank]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align ="left" target="_blank" />][LinkedIn] 
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align ="left"  />][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/medium.svg" align ="left" />][medium]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/hackerrank.svg" align ="left" />][hackerrank]
 
 
 <br />
