@@ -8,6 +8,7 @@
  - I am currently working on Spring, Spring Boot
  - I regularly try to write articles on my [Medium Account](https://medium.com/@mahirrakarsu)
  - Reach all my links in my [Linktr Account](https://linktr.ee/evrentan)
+ - You can find here my [CV](https://docs.google.com/document/d/1NvM_dsEW3HLz4hDwqcHJrPgRYtuZXu90T7cqd7kOqgY/edit)
  
  
 ### Reach out to me
