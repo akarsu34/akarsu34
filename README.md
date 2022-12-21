@@ -26,7 +26,10 @@
 <img aling= "left" src =" https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/sql/sql.png" width="25" height="25"/>
 <img aling= "left" src =" https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png" width="25" height="25"/
 
-
+[LinkedIn]:https://www.linkedin.com/in/akarsu/
+[twitter]:https://twitter.com/1Mahirakarsu
+[medium]:https://medium.com/@mahirrakarsu
+[hackerrank]:https://www.hackerrank.com/akarsu
 
 
 <!--
