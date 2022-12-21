@@ -1,4 +1,32 @@
-### Hi there 👋
+ 
+<h1 align ="center"> Hi there, I'am Mahir 👋 </h1
+
+## Jr. Java Developer
+
+<br />
+### Reach out to me
+
+<br />
+
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align ="left"  />][LinkedIn] 
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align ="left" backround-color="white" />][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/medium.svg" align ="left" color="white" />][medium]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/hackerrank.svg" align ="left" color="white" />][hackerrank]
+
+
+<br />
+<br />
+<br />
+
+### Teach I use
+
+<br />
+<img aling= "left" src =" https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/spring/spring.png" width="25" height="25"/>
+<img aling= "left" src =" https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/sql/sql.png" width="25" height="25"/>
+<img aling= "left" src =" https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png" width="25" height="25"/
+
+
+
 
 <!--
 **akarsu34/akarsu34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
